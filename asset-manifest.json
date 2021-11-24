@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://toichy.github.io/csb-77si4/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://toichy.github.io/csb-77si4/static/js/main.b7b5c9b6.chunk.js",
+    "main.js.map": "https://toichy.github.io/csb-77si4/static/js/main.b7b5c9b6.chunk.js.map",
+    "runtime-main.js": "https://toichy.github.io/csb-77si4/static/js/runtime-main.dbb53a51.js",
+    "runtime-main.js.map": "https://toichy.github.io/csb-77si4/static/js/runtime-main.dbb53a51.js.map",
+    "static/js/2.eed3c6af.chunk.js": "https://toichy.github.io/csb-77si4/static/js/2.eed3c6af.chunk.js",
+    "static/js/2.eed3c6af.chunk.js.map": "https://toichy.github.io/csb-77si4/static/js/2.eed3c6af.chunk.js.map",
+    "index.html": "https://toichy.github.io/csb-77si4/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://toichy.github.io/csb-77si4/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.eed3c6af.chunk.js.LICENSE.txt": "https://toichy.github.io/csb-77si4/static/js/2.eed3c6af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbb53a51.js",
+    "static/js/2.eed3c6af.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b7b5c9b6.chunk.js"
+  ]
+}
